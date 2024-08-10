@@ -2,7 +2,7 @@ import React from 'react'
 
 function Awards() {
   return (
-    <div className="min-h-[50dvh] relative bg-blue-950">
+    <div className="min-h-[50vh] relative bg-blue-950">
       <div className="flex flex-col justify-between h-full wrapper text-white">
         <div className="flex justify-center items-center p-4 flex-col mt-10">
           <h1 className="text-5xl font-bold">My Awards</h1>

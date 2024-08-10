@@ -3,7 +3,7 @@ import ProjectCard from './ProjectCard'
 
 function Projects() {
   return (
-    <div className="min-h-[100dvh] relative bg-blue-950">
+    <div className="min-h-[100vh] relative bg-blue-950">
       <div className="flex flex-col justify-between h-full wrapper text-white">
         <div className="flex justify-center items-center p-4 flex-col mt-10">
           <h1 className="text-5xl font-bold">My Projects</h1>

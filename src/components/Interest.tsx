@@ -2,7 +2,7 @@ import React from 'react'
 
 function Interest() {
   return (
-    <div className='h-[60dvh] relative bg-blue-950'>
+    <div className='h-[60vh] relative bg-blue-950'>
       <div className='flex flex-col justify-between h-full wrapper text-white'>
         <div className='flex justify-center p-4 flex-col mt-10'>
           <h1 className='text-5xl font-bold'>My Interest</h1>
