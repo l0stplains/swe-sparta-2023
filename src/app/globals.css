@@ -110,7 +110,7 @@ html::-webkit-scrollbar-thumb
 }
 
 .flip-card-front {
-  background: url("/refki-alfarizi.jpg");
+  background: url("/refki.jpg");
   background-size: cover;
   color: coral;
 }
