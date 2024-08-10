@@ -4,7 +4,7 @@ Tugas Software Engineering - SPARTA HMIF 2023
 
 # Tentang
 <p align="justify">
-&emsp;Pada repositori ini, terdapat source code dari website portofolio yang sudah dibuat. Saya menggunakan <i>tech stack</i> React, Nextjs, Typescript, dan Tailwind untuk projek ini. Untuk website ini bisa diakses melalui link berikut: <a href="refkialfarizi.vercel.app" target="_blank">refkialfarizi.vercel.app</a>
+&emsp;Pada repositori ini, terdapat source code dari website portofolio yang sudah dibuat. Saya menggunakan <i>tech stack</i> React, Nextjs, Typescript, dan Tailwind untuk projek ini. Untuk website ini bisa diakses melalui link berikut: <a href="https://refkialfarizi.vercel.app/" target="_blank">refkialfarizi.vercel.app</a>
 </p>
 <p align="justify">
 &emsp;Pada website tersebut, terdapat bagian <i>Hero</i> yang berisikan informasi utama mengenai diri saya, lalu ada bagian <i>Interest and Hobby</i> yang berisikan informasi mengenai minat/bakat dan hobi saya, setelah itu ada bagian <i>Projects</i> yang berisikan projek-projek yang pernah saya kerjakan, lalu terakhir ada bagian <i>Awards</i> yang seharusnya berisikan penghargaan yang pernah saya dapatkan, namun untuk saat ini masih belum ada.
