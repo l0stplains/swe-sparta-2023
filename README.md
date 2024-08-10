@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Website Portofolio Sederhana
 
-## Getting Started
+Tugas Software Engineering - SPARTA HMIF 2023
 
-First, run the development server:
+# Tentang
+<p align="justify">
+&emsp;Pada repositori ini, terdapat source code dari website portofolio yang sudah dibuat. Saya menggunakan <i>tech stack</i> React, Nextjs, Typescript, dan Tailwind untuk projek ini. Untuk website ini bisa diakses melalui link berikut: <a href="https://refkialfarizi.vercel.app/" target="_blank">refkialfarizi.vercel.app</a>
+</p>
+<p align="justify">
+&emsp;Pada website tersebut, terdapat bagian <i>Hero</i> yang berisikan informasi utama mengenai diri saya, lalu ada bagian <i>Interest and Hobby</i> yang berisikan informasi mengenai minat/bakat dan hobi saya, setelah itu ada bagian <i>Projects</i> yang berisikan projek-projek yang pernah saya kerjakan, lalu terakhir ada bagian <i>Awards</i> yang seharusnya berisikan penghargaan yang pernah saya dapatkan, namun untuk saat ini masih belum ada.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Cara Menjalankan
+Pada terminal, clone folder repositori dengan menjalankan perintah berikut:
+```console
+git clone https://github.com/l0stplains/swe-sparta-2023.git
 ```
+Setelah itu, buka folder repositori ini lalu jalankan perintah berikut:
+```console
+npm install
+```
+Setelah proses instalasi selesai, jalankan perintah berikut:
+```console
+npm run dev
+```
+# Tantangan
+<p align="justify">
+&emsp;Tantangan yang harus saya hadapi saat mengembangkan website ini adalah proses <i>styling</i> yang cukup sulit karena saya tidak begitu mahir dalam menulis <i>script</i> CSS/Tailwind.
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Identitas Pembuat
+* 19623034	Refki Alfarizi Teknik Informatika Kampus Ganesha
